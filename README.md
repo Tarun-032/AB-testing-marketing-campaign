@@ -12,13 +12,6 @@ The goal was to determine whether the new campaign improves:
 
 4. Overall profitability
 
-
-# 🚀 A/B Testing Analysis: Marketing Campaign Optimization
-
-## 📌 Project Overview
-
-This project evaluates the performance of a new marketing campaign (Test variant) against the existing campaign (Control) using classical and Bayesian A/B testing methodologies.
-
 The goal was to determine whether the new campaign improves:
 
 * Click-Through Rate (CTR)
